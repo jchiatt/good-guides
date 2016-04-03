@@ -1,5 +1,7 @@
 # Good Guides
-How we do things at Good. Inspired by Thoughtbot — https://github.com/thoughtbot/guides & Sparkbox — https://github.com/sparkbox/how_to
+How we do things at Good. 
+
+Inspired by Thoughtbot — https://github.com/thoughtbot/guides & Sparkbox — https://github.com/sparkbox/how_to
 
 ## Things to Cover
 * Best Practices
