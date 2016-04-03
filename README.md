@@ -1,5 +1,5 @@
 # Good Guides
-How we do things at Good. Inspired by Thoughtbot — https://github.com/thoughtbot/guides
+How we do things at Good. Inspired by Thoughtbot — https://github.com/thoughtbot/guides & Sparkbox — https://github.com/sparkbox/how_to
 
 ## Things to Cover
 * Best Practices
@@ -15,6 +15,17 @@ How we do things at Good. Inspired by Thoughtbot — https://github.com/thought
 * Style
 * Security
 * Meetups / Events
+* Services
+	* Dropbox
+	* Slack
+	* Talky
+	* Screenhero
+	* Howdy
+	* etc
+* Apps
+	* Sublime
+		* Plugins
+		* Themes
 * Protocol
 	* Project Management
 	* Git
@@ -47,3 +58,6 @@ How we do things at Good. Inspired by Thoughtbot — https://github.com/thought
 		* Redux
 
 ![good](http://builtbygood.co/img/logo.png)
+
+**TODO:**
+* Add CONTRIBUTING.md
