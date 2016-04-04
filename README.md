@@ -38,6 +38,7 @@ How we do things at Good.
 	* People
 	* Benefits
 	* Salaries
+* Employee Onboarding
 * Project Kickoffs
 	* Meetings
 	* Scoping / Timelines
