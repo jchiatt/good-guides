@@ -1,4 +1,4 @@
-![good](http://builtbygood.co/img/logo.png)
+[![good](http://builtbygood.co/img/logo.png)](http://builtbygood.co)
 
 # Good Benefits
 The benefits for Good people.
