@@ -1,6 +1,8 @@
 # Good Info
 Good information for your convenience.
 
+[![good](http://builtbygood.co/img/logo.png)](http://builtbygood.co)
+
 * [Good Benefits](https://github.com/builtbygood/good-guides/blob/master/info/good-benefits.md)
 
 **TODO:**

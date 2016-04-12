@@ -1,6 +1,6 @@
 # Good Guides
 
-![good](http://builtbygood.co/img/logo.png)
+[![good](http://builtbygood.co/img/logo.png)](http://builtbygood.co)
 
 How we do things at Good.
 

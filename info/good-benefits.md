@@ -1,7 +1,7 @@
-[![good](http://builtbygood.co/img/logo.png)](http://builtbygood.co)
-
 # Good Benefits
 The benefits for Good people.
+
+[![good](http://builtbygood.co/img/logo.png)](http://builtbygood.co)
 
 ## Summary of Good Benefits
 Good employees are entitled to unlimited vacation and personal leave, and we work (for the most part) whenever and wherever we want. With that freedom does come great responsibility, however. All employees are expected to complete their work for any given project(s) on time. It is your responsibility to ensure you are budgeting enough time to complete projects. Had to take a few hours off for an appointment? Maybe make it up later that day or later that week if you think it’ll put you behind on something you’re working on. Let’s be responsible.
