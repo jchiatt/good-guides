@@ -1,5 +1,5 @@
 # Good Info
-Good information for your convenience.
+How to get Good info.
 
 [![good](http://builtbygood.co/img/logo.png)](http://builtbygood.co)
 
