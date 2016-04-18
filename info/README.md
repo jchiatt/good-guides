@@ -1,7 +1,11 @@
 # Good Info
-How to see business info
+How to get Good info.
+
+[![good](http://builtbygood.co/img/logo.png)](http://builtbygood.co)
+
+* [Good Benefits](https://github.com/builtbygood/good-guides/blob/master/info/good-benefits.md)
 
 **TODO:**
 * PR for people
-* PR for benefits
 * PR for salaries
+* PR for revenue / profit / loss ?
