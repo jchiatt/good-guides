@@ -1,5 +1,5 @@
 # Good Benefits
-The benefits for Good people.
+How to know you are Good.
 
 [![good](http://builtbygood.co/img/logo.png)](http://builtbygood.co)
 
