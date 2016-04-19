@@ -1,5 +1,5 @@
 # Helpful Frontend Utilities
-How to write Good frontends.
+Good stuff for your frontend.
 
 [![good](http://builtbygood.co/img/logo.png)](http://builtbygood.co)
 
