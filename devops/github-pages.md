@@ -12,3 +12,5 @@ How to host Good sites on GitHub pages.
 ## When it's time to launch
 1. Create a CNAME file per [this article](https://help.github.com/articles/setting-up-your-pages-site-repository/)
 2. High five
+
+_Official GitHub reference:_ https://pages.github.com/
