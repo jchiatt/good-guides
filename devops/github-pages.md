@@ -1,8 +1,6 @@
 # GitHub Pages Deployment
 How to host Good sites on GitHub pages.
 
-[![good](http://builtbygood.co/img/logo.png)](http://builtbygood.co)
-
 ## Before site launch
 1. Create the repo in GitHub (private unless otherwise specified)
 2. When the site is ready for preview, create the `gh-pages` branch
