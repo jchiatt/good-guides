@@ -29,6 +29,9 @@ Tags should be used to categorise tasks in a focused manner. Try not to exceed 3
 * feature
 * bug
 * debt
+* !!! - high priority
+* !! - medium priority
+* ! - low priority
 
 ## Using Flow
 
@@ -43,4 +46,4 @@ Active Sprint only concerns tasks related to the current sprint time period, whi
 Backlog contains all of the non active tasks for a project. Sections for this project are usually Features, Bugs, Requests, and Tech Debt. Only include the necessary sections based on what the project calls for.
 
 ### Overview Tab
-The overview tab is a great way to keep track of your tasks across workspaces and projects. My Tasks will show you your tasks organised by the workspace and project. Calendar will show you tasks that are upcoming and overdue. Tasks should be prioritised based on what's due this week, followed by how important they are.
+The overview tab is a great way to keep track of your tasks across workspaces and projects. My Tasks will show you your tasks organised by the workspace and project. Calendar will show you tasks that are upcoming and overdue. Tasks should be prioritised based on what's due today, then this week, then any assigned priority (high, medium, low).
