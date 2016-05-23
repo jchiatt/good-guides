@@ -6,7 +6,6 @@ How to use apps for fun and profit.
 
 ## Services
 * Slack
-* Basecamp
 * Flow
 * Dropbox
 * Talky
