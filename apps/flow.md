@@ -4,10 +4,10 @@ How to be Good at Flow
 ## Terms
 
 ### Workspaces
-Workspaces contain all of the info for large projects where clients and contractors are allowed to see our process in action. These are the top level of the Flow hierarchy.
+Workspaces contain all of the info for large projects where employees and contractors are allowed to see our process in action. These are the top level of the Flow hierarchy.
 
 ### Projects
-Projects contain all of the info for a subset of a project in a workspace. For Good, this is how we split our internal projects from each other. For larger projects, this will typically be an Active Sprint project and a Backlog project.
+Depending on the size and scope of what we are working on, a Project can be either an entire project (i.e. ACME Marketing Site) or a deliverable subset of a larger project (i.e. Marketing Site for ACME App, where ACME App may have its own Workspace.
 
 ### Sections
 Sections split out projects into logic sections for things like To-Do, In Progress, etc.
@@ -43,4 +43,4 @@ Active Sprint only concerns tasks related to the current sprint time period, whi
 Backlog contains all of the non active tasks for a project. Sections for this project are usually Features, Bugs, Requests, and Tech Debt. Only include the necessary sections based on what the project calls for.
 
 ### Overview Tab
-The overview tab is a great way to keep track of your tasks across workspaces and projects. My Tasks will show you your tasks organised by the workspace and project. Calendar will show you tasks that are upcoming and overdue.
+The overview tab is a great way to keep track of your tasks across workspaces and projects. My Tasks will show you your tasks organised by the workspace and project. Calendar will show you tasks that are upcoming and overdue. Tasks should be prioritised based on what's due this week, followed by how important they are.
